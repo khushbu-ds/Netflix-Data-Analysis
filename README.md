@@ -3,6 +3,11 @@
 
 ## 📌 Project Overview
 This project analyzes Netflix dataset using Python.
+## 📊 Visualizations
+
+![Graph1](graph1.png)
+![Graph2](graph2.png)
+![Graph3](graph3.png)
 
 ## 🛠 Tools Used
 - Python
